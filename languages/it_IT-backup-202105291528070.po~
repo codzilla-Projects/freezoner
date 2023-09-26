@@ -1,0 +1,483 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Freezoner\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-29 11:07+0000\n"
+"PO-Revision-Date: 2021-05-29 11:09+0000\n"
+"Last-Translator: \n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: freezoner"
+
+#: index.php:40
+msgid "--Select--"
+msgstr ""
+
+#: lib/fz_theme_init.php:305 lib/fz_theme_init.php:307
+msgid "Add New dictionary"
+msgstr ""
+
+#: lib/fz_theme_init.php:235 lib/fz_theme_init.php:237
+msgid "Add New event"
+msgstr ""
+
+#: lib/fz_theme_init.php:303
+msgctxt "Add New on Toolbar"
+msgid "dictionary"
+msgstr ""
+
+#: lib/fz_theme_init.php:233
+msgctxt "Add New on Toolbar"
+msgid "event"
+msgstr ""
+
+#: lib/fz_theme_init.php:163
+msgctxt "Add New on Toolbar"
+msgid "question"
+msgstr ""
+
+#: lib/fz_theme_init.php:93
+msgctxt "Add New on Toolbar"
+msgid "service"
+msgstr ""
+
+#: lib/fz_theme_init.php:21
+msgctxt "Add New on Toolbar"
+msgid "slider"
+msgstr ""
+
+#: lib/fz_theme_init.php:165 lib/fz_theme_init.php:167
+msgid "Add New question"
+msgstr ""
+
+#: lib/fz_theme_init.php:95 lib/fz_theme_init.php:97
+msgid "Add New service"
+msgstr ""
+
+#: lib/fz_theme_init.php:23 lib/fz_theme_init.php:25
+msgid "Add New slider"
+msgstr ""
+
+#: lib/fz_theme_init.php:301
+msgctxt "Admin Menu text"
+msgid "Dictionary"
+msgstr ""
+
+#: lib/fz_theme_init.php:231
+msgctxt "Admin Menu text"
+msgid "Events"
+msgstr ""
+
+#: lib/fz_theme_init.php:161
+msgctxt "Admin Menu text"
+msgid "questions"
+msgstr ""
+
+#: lib/fz_theme_init.php:91
+msgctxt "Admin Menu text"
+msgid "services"
+msgstr ""
+
+#: lib/fz_theme_init.php:19
+msgctxt "Admin Menu text"
+msgid "sliders"
+msgstr ""
+
+#: lib/fz_theme_init.php:428 lib/fz_theme_init.php:453
+msgid "All categories"
+msgstr ""
+
+#: lib/fz_theme_init.php:315
+msgid "All dictionary"
+msgstr ""
+
+#: lib/fz_theme_init.php:245
+msgid "All events"
+msgstr ""
+
+#: lib/fz_theme_init.php:175
+msgid "All questions"
+msgstr ""
+
+#: lib/fz_theme_init.php:105
+msgid "All services"
+msgstr ""
+
+#: lib/fz_theme_init.php:33
+msgid "All sliders"
+msgstr ""
+
+#: footer.php:79
+msgid ""
+"B2B Tower, Office 2102,\n"
+"\n"
+"\t\t\t\t\t\t\t\t\t\t\t\tBusiness Bay, Dubai-UAE,191412"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Template"
+msgstr ""
+
+#: index.php:49
+msgid "Company website"
+msgstr ""
+
+#: footer.php:69
+msgid "Contact Info"
+msgstr ""
+
+#. Name of the template
+msgid "Contact Template"
+msgstr ""
+
+#: index.php:46
+msgid "Corporate bank account"
+msgstr ""
+
+#: lib/fz_meta_fields.php:149
+msgid "Date: "
+msgstr ""
+
+#. Name of the template
+msgid "Dictionary Template"
+msgstr ""
+
+#: lib/fz_theme_init.php:311
+msgid "Edit dictionary"
+msgstr ""
+
+#: lib/fz_theme_init.php:241
+msgid "Edit event"
+msgstr ""
+
+#: lib/fz_theme_init.php:171
+msgid "Edit question"
+msgstr ""
+
+#: lib/fz_theme_init.php:101
+msgid "Edit service"
+msgstr ""
+
+#: lib/fz_theme_init.php:29
+msgid "Edit slider"
+msgstr ""
+
+#: index.php:27 index.php:58
+msgid "Email"
+msgstr ""
+
+#: lib/fz_meta_fields.php:163
+msgid "End Time: "
+msgstr ""
+
+#. Name of the template
+msgid "Events"
+msgstr ""
+
+#: index.php:41
+msgid "Free zone company"
+msgstr ""
+
+#: index.php:44
+msgid "Freelance visa"
+msgstr ""
+
+#. Name of the theme
+msgid "Freezoner"
+msgstr ""
+
+#. Description of the theme
+msgid "Freezoner Theme"
+msgstr ""
+
+#: index.php:21 index.php:22
+msgid "Full name"
+msgstr ""
+
+#: index.php:15
+msgid "Get Quotation"
+msgstr ""
+
+#. Name of the template
+msgid "Home Page"
+msgstr ""
+
+#: lib/fz_theme_init.php:297
+msgctxt "Homepage dictionary"
+msgid "Dictionary"
+msgstr ""
+
+#: lib/fz_theme_init.php:227
+msgctxt "Homepage events"
+msgid "Events"
+msgstr ""
+
+#: lib/fz_theme_init.php:157
+msgctxt "Homepage questions"
+msgid "questions"
+msgstr ""
+
+#: lib/fz_theme_init.php:87
+msgctxt "Homepage services"
+msgid "services"
+msgstr ""
+
+#: lib/fz_theme_init.php:15
+msgctxt "Homepage sliders"
+msgid "sliders"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://https://shwkyfareed.com/"
+msgstr ""
+
+#: index.php:48
+msgid "Immigration services"
+msgstr ""
+
+#: index.php:68
+msgid "Inquiry details"
+msgstr ""
+
+#: lib/fz_meta_fields.php:28
+msgid "Link Text: "
+msgstr ""
+
+#: lib/fz_meta_fields.php:41
+msgid "Link URL: "
+msgstr ""
+
+#: lib/fz_meta_fields.php:81
+msgid "Link Youtube: "
+msgstr ""
+
+#: index.php:45
+msgid "Local sponsor"
+msgstr ""
+
+#: lib/fz_meta_fields.php:170
+msgid "Location: "
+msgstr ""
+
+#: lib/fz_theme_init.php:309
+msgid "New dictionary"
+msgstr ""
+
+#: lib/fz_theme_init.php:239
+msgid "New event"
+msgstr ""
+
+#: lib/fz_theme_init.php:169
+msgid "New question"
+msgstr ""
+
+#: lib/fz_theme_init.php:99
+msgid "New service"
+msgstr ""
+
+#: lib/fz_theme_init.php:27
+msgid "New slider"
+msgstr ""
+
+#: lib/fz_theme_init.php:323
+msgid "No dictionary found in Trash."
+msgstr ""
+
+#: lib/fz_theme_init.php:321
+msgid "No dictionary found."
+msgstr ""
+
+#: lib/fz_theme_init.php:253
+msgid "No event found in Trash."
+msgstr ""
+
+#: lib/fz_theme_init.php:251
+msgid "No event found."
+msgstr ""
+
+#: lib/fz_theme_init.php:183
+msgid "No questions found in Trash."
+msgstr ""
+
+#: lib/fz_theme_init.php:181
+msgid "No questions found."
+msgstr ""
+
+#: lib/fz_theme_init.php:113
+msgid "No service found in Trash."
+msgstr ""
+
+#: lib/fz_theme_init.php:111
+msgid "No service found."
+msgstr ""
+
+#: lib/fz_theme_init.php:41
+msgid "No slider found in Trash."
+msgstr ""
+
+#: lib/fz_theme_init.php:39
+msgid "No slider found."
+msgstr ""
+
+#: index.php:69
+msgid "Note about your order. e.g. special note for delivery"
+msgstr ""
+
+#: index.php:43
+msgid "Offshore"
+msgstr ""
+
+#: lib/fz_theme_init.php:319
+msgid "Parent dictionary:"
+msgstr ""
+
+#: lib/fz_theme_init.php:249
+msgid "Parent event:"
+msgstr ""
+
+#: lib/fz_theme_init.php:179
+msgid "Parent questions:"
+msgstr ""
+
+#: lib/fz_theme_init.php:109
+msgid "Parent service:"
+msgstr ""
+
+#: lib/fz_theme_init.php:37
+msgid "Parent slider:"
+msgstr ""
+
+#: index.php:63
+msgid "Phone"
+msgstr ""
+
+#: index.php:32 index.php:33
+msgid "Phone Number"
+msgstr ""
+
+#: lib/fz_theme_init.php:427 lib/fz_theme_init.php:452
+msgid "Popular Categories"
+msgstr ""
+
+#: lib/fz_theme_init.php:299
+msgctxt "Post type singular name"
+msgid "Dictionary"
+msgstr ""
+
+#: lib/fz_theme_init.php:229
+msgctxt "Post type singular name"
+msgid "event"
+msgstr ""
+
+#: lib/fz_theme_init.php:159
+msgctxt "Post type singular name"
+msgid "question"
+msgstr ""
+
+#: lib/fz_theme_init.php:89
+msgctxt "Post type singular name"
+msgid "service"
+msgstr ""
+
+#: lib/fz_theme_init.php:17
+msgctxt "Post type singular name"
+msgid "slider"
+msgstr ""
+
+#: index.php:55
+msgid "Prefered way of communication (mandatory)"
+msgstr ""
+
+#: archive-events.php:47 archive-blog.php:37 single-blog.php:22
+msgid "Read More"
+msgstr ""
+
+#: lib/fz_meta_fields.php:142
+msgid "Registration Fees: "
+msgstr ""
+
+#: lib/fz_theme_init.php:426 lib/fz_theme_init.php:451
+msgid "Search categories"
+msgstr ""
+
+#: lib/fz_theme_init.php:317
+msgid "Search dictionary"
+msgstr ""
+
+#: lib/fz_theme_init.php:247
+msgid "Search event"
+msgstr ""
+
+#: lib/fz_theme_init.php:177
+msgid "Search questions"
+msgstr ""
+
+#: lib/fz_theme_init.php:107
+msgid "Search service"
+msgstr ""
+
+#: lib/fz_theme_init.php:35
+msgid "Search slider"
+msgstr ""
+
+#: index.php:38
+msgid "Service Required"
+msgstr ""
+
+#. Author of the theme
+msgid "Shawky Fareed"
+msgstr ""
+
+#: lib/fz_meta_fields.php:156
+msgid "Start Time: "
+msgstr ""
+
+#: index.php:75
+msgid "Submit"
+msgstr ""
+
+#: lib/fz_meta_fields.php:128
+msgid "Total No: "
+msgstr ""
+
+#: lib/fz_meta_fields.php:135
+msgid "Vacant Slots: "
+msgstr ""
+
+#: index.php:47
+msgid "Vat &amp; audit"
+msgstr ""
+
+#: lib/fz_theme_init.php:313
+msgid "View dictionary"
+msgstr ""
+
+#: lib/fz_theme_init.php:243
+msgid "View event"
+msgstr ""
+
+#: lib/fz_theme_init.php:173
+msgid "View question"
+msgstr ""
+
+#: lib/fz_theme_init.php:103
+msgid "View service"
+msgstr ""
+
+#: lib/fz_theme_init.php:31
+msgid "View slider"
+msgstr ""
+
+#: index.php:42
+msgid "VIP"
+msgstr ""
+
+#: index.php:28
+msgid "Your Email"
+msgstr ""
